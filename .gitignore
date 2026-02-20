@@ -1,0 +1,21 @@
+# --- Python specific ---
+__pycache__/      
+*.py[cod]            
+*$py.class      
+
+# --- Environments ---
+.venv/            
+venv/
+env/
+bin/                
+
+# --- IDEs / Editors ---
+.vscode/             
+.idea/                
+*.swp               
+
+Thumbs.db             # Windows specific
+
+# --- Project Specific ---
+scores.txt           
+logs.log              
